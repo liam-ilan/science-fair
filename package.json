@@ -1,0 +1,17 @@
+{
+  "name": "science-fair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "php -S localhost:8000"
+  },
+  "author": "Liam Ilan",
+  "license": "MIT",
+  "dependencies": {
+    "@teachablemachine/image": "^0.8.4",
+    "@tensorflow/tfjs-node": "^1.5.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0"
+  }
+}
