@@ -31,6 +31,6 @@ Note to change line 12 in index.html to reflect the path to your model. Your mod
 These are all accessible after training a teachable machine model.
 
 ## Credit
-All software written by Liam Ilan
-Google's Teachable Machine by Google
-ISIC archive used for images
+- All software written by Liam Ilan
+- Google's Teachable Machine by Google
+- ISIC archive used for images
